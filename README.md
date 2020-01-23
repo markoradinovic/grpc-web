@@ -35,6 +35,7 @@ streaming example.
 
 From the repo root directory:
 
+
 ```sh
 $ docker-compose pull
 $ docker-compose up
